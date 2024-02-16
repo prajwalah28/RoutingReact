@@ -13,6 +13,7 @@ export default function Home() {
       <p>
         Go to <Link to="/products">the list of products</Link>
       </p>
+      <p>Prajwal</p>
       <p>
         <button onClick={navigateHandelar}>Navigate</button>
       </p>
